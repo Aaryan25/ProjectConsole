@@ -1,0 +1,8 @@
+C:\Users\2094276\source\repos\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\2094276\source\repos\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\2094276\source\repos\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\2094276\source\repos\Sample\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\2094276\source\repos\Sample\Sample\obj\Debug\Sample.csproj.SuggestedBindingRedirects.cache
+C:\Users\2094276\source\repos\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\2094276\source\repos\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\2094276\source\repos\Sample\Sample\obj\Debug\Sample.pdb
